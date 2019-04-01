@@ -21,7 +21,7 @@ class App extends Component {
         this.updateMinutes();
         this.state.seconds = 0;
       }
-    }, 100);
+    }, 1000);
   }
 
   renderWatch() {
