@@ -33,14 +33,14 @@ class App extends Component {
   }
 
   renderstopButton() {
-    return <Button onClick={this.stop.bind(this)} />;
+    return <Button onClick={this.stop.bind(this)} className="stopButton" />;
   }
 
   render() {
     return (
-      <div>
+      <div className="container">
         <div>{this.renderWatch()}</div>
-        {this.renderstopButton()}
+        <div>{this.renderstopButton()}</div>
       </div>
     );
   }

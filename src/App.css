@@ -1,7 +1,18 @@
-.watch{
-  font-size:100px;
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.className {
-  font-size: 10px;
+.watch {
+  margin-top: 200px;
+  font-size: 150px;
+}
+
+.stopButton {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  font-size: 30px;
 }
