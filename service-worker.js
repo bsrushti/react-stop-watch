@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-stop-watch/public/precache-manifest.0e52f771998353198c3960bc45b04d42.js"
+  "/react-stop-watch/precache-manifest.fe67cd8b05a77aa9e07c394070130da5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-stop-watch/public/index.html", {
+workbox.routing.registerNavigationRoute("/react-stop-watch/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

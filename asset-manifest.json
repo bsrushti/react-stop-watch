@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-stop-watch/public/static/css/main.813dbb00.chunk.css",
-  "main.js": "/react-stop-watch/public/static/js/main.c753dab3.chunk.js",
-  "main.js.map": "/react-stop-watch/public/static/js/main.c753dab3.chunk.js.map",
-  "runtime~main.js": "/react-stop-watch/public/static/js/runtime~main.c249c326.js",
-  "runtime~main.js.map": "/react-stop-watch/public/static/js/runtime~main.c249c326.js.map",
-  "static/js/2.d6a534e5.chunk.js": "/react-stop-watch/public/static/js/2.d6a534e5.chunk.js",
-  "static/js/2.d6a534e5.chunk.js.map": "/react-stop-watch/public/static/js/2.d6a534e5.chunk.js.map",
-  "index.html": "/react-stop-watch/public/index.html",
-  "precache-manifest.0e52f771998353198c3960bc45b04d42.js": "/react-stop-watch/public/precache-manifest.0e52f771998353198c3960bc45b04d42.js",
-  "service-worker.js": "/react-stop-watch/public/service-worker.js",
-  "static/css/main.813dbb00.chunk.css.map": "/react-stop-watch/public/static/css/main.813dbb00.chunk.css.map"
+  "main.css": "/react-stop-watch/static/css/main.813dbb00.chunk.css",
+  "main.js": "/react-stop-watch/static/js/main.afadc756.chunk.js",
+  "main.js.map": "/react-stop-watch/static/js/main.afadc756.chunk.js.map",
+  "runtime~main.js": "/react-stop-watch/static/js/runtime~main.28276c7a.js",
+  "runtime~main.js.map": "/react-stop-watch/static/js/runtime~main.28276c7a.js.map",
+  "static/js/2.d6a534e5.chunk.js": "/react-stop-watch/static/js/2.d6a534e5.chunk.js",
+  "static/js/2.d6a534e5.chunk.js.map": "/react-stop-watch/static/js/2.d6a534e5.chunk.js.map",
+  "index.html": "/react-stop-watch/index.html",
+  "precache-manifest.fe67cd8b05a77aa9e07c394070130da5.js": "/react-stop-watch/precache-manifest.fe67cd8b05a77aa9e07c394070130da5.js",
+  "service-worker.js": "/react-stop-watch/service-worker.js",
+  "static/css/main.813dbb00.chunk.css.map": "/react-stop-watch/static/css/main.813dbb00.chunk.css.map"
 }
